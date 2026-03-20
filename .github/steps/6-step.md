@@ -31,3 +31,4 @@ Answer one quick question for Mona, and she will share the final review! 🎉
 - [ ] I can use it with any operating system. 🍎🪟🐧
 - [ ] The detailed history (if I write good messages). ✨
 - [ ] That I might never write `final_really.zip` ever again! 😎
+ It's free and open source.
